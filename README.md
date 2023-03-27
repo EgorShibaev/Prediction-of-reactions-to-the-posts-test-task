@@ -22,6 +22,6 @@ Support vector classifier was trained on these features
 
 ## Accuracy
 
-f1 score: 0.66
+f1 score: 0.65
 
-accuracy score: 0.8
+accuracy score: 0.85
